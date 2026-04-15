@@ -1,7 +1,7 @@
 # Bao Cao Thi Nghiem: Tac Dong Cua Chat Luong Du Lieu Den AI Agent
 
-**Ma so hoc vien:** AI20K-XXXX
-**Ho va ten:** (Dien ten cua ban)
+**Ma so hoc vien:** 2A202600056
+**Ho va ten:** Hàn Quang Hiếu
 **Ngay thuc hien:** 15/04/2026
 
 ---
